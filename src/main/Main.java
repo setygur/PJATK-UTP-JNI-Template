@@ -10,4 +10,6 @@ public class Main {
     public static native int[] withoutDuplicates(int[] arr);
 
     public static native String[] chunk(String str, int n);
+
+    public static native void greeter();
 }
